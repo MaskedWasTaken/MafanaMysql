@@ -1,0 +1,4 @@
+name: MafanaMysqlAPI
+version: '1.0-SNAPSHOT'
+main: me.TahaCheji.MainAPI
+api-version: 1.18

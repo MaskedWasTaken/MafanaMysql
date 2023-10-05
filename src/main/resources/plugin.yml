@@ -1,0 +1,4 @@
+name: MafanaMysqlAPI
+version: '${project.version}'
+main: me.TahaCheji.MainAPI
+api-version: 1.18
